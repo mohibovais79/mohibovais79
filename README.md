@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohibovais79
 - 👀 I’m interested in ..Ai,machine learning,app development and in datascience.
-- 🌱 I’m currently learning Ai and Datasscience
+- 🌱 I’m currently learning Ai and Datas science
 - 💞️ I’m looking to collaborate on Deep Learning projects
 - 📫 How to reach me -> mohibovais79@gmail.com
 
