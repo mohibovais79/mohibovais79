@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mohibovais79/mohibovais79/blob/master/devcard.svg" width="400" alt="Mohib Ahmed's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mohibovais79/mohibovais79/blob/main/devcard.svg" width="400" alt="Mohib Ahmed's Dev Card"/></a>
 
 
 <!---
