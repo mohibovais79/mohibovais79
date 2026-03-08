@@ -53,21 +53,74 @@
 
 ## 🏆 &nbsp;Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mohibovais79&repo=REPO_NAME_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/mohibovais79/REPO_NAME_1)
-&nbsp;&nbsp;
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mohibovais79&repo=REPO_NAME_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/mohibovais79/REPO_NAME_2)
+### 🧠 [Project Name 1](https://github.com/YOUR_USERNAME/REPO_1)
+> Brief one-line description of what this project does
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=synthova&repo=synapse-backend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/synthova/synapse-backend)
-&nbsp;&nbsp;
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mohibovais79&repo=REPO_NAME_4&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/mohibovais79/REPO_NAME_4)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mohibovais79&repo=REPO_NAME_5&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/mohibovais79/REPO_NAME_5)
-&nbsp;&nbsp;
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mohibovais79&repo=REPO_NAME_6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/mohibovais79/REPO_NAME_6)
+</td>
+<td width="50%" valign="top">
 
-</div>
+### 🌐 [Project Name 2](https://github.com/YOUR_USERNAME/REPO_2)
+> Brief one-line description of what this project does
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ [Synapse Backend](https://github.com/synthova/synapse-backend)
+> FastAPI backend for Synapse AI platform
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [Project Name 4](https://github.com/YOUR_USERNAME/REPO_4)
+> Brief one-line description of what this project does
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [Project Name 5](https://github.com/YOUR_USERNAME/REPO_5)
+> Brief one-line description of what this project does
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 [Project Name 6](https://github.com/YOUR_USERNAME/REPO_6)
+> Brief one-line description of what this project does
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
