@@ -57,8 +57,8 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [Project Name 1](https://github.com/YOUR_USERNAME/REPO_1)
-> Brief one-line description of what this project does
+### 🧠 [DataMind](https://github.com/synthova/data_analytics_llm)
+> An agentic text-to-SQL chatbot that converts natural language into SQL or Python, queries relational databases, and returns analysed results with visualisations under strong guardrails.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -67,12 +67,15 @@
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [Project Name 2](https://github.com/YOUR_USERNAME/REPO_2)
-> Brief one-line description of what this project does
+### 🌐 [Visual Analytics](https://github.com/mohibovais79/cv-backend)
+> Smart video analytics to track movements, measure engagement from live CCTV streams and enhance operational efficiency across industries.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square)
+![DeepFace](https://img.shields.io/badge/DeepFace-6C63FF?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 </tr>
@@ -89,34 +92,37 @@
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [Project Name 4](https://github.com/YOUR_USERNAME/REPO_4)
-> Brief one-line description of what this project does
+### 🤖 [Diabot](https://github.com/mohibovais79/diabot_backend)
+> Diabot is an AI-powered chatbot that answers diabetes-related queries using real, verified doctors’ data. It also provides a confidence score so you know how reliable each answer is.
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [Project Name 5](https://github.com/YOUR_USERNAME/REPO_5)
-> Brief one-line description of what this project does
+### 📊 [Invoice IQ](https://github.com/mohibovais79/invoiceiq-frontend)
+> An AI-powered invoice processing SaaS that extracts data via OCR, applies confidence scoring and anomaly detection, and integrates with accounting systems for automated workflows and exports.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?style=flat-square&logo=intuit&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 [Project Name 6](https://github.com/YOUR_USERNAME/REPO_6)
-> Brief one-line description of what this project does
+### 🚀 [Tandridge Planning Applications Scraper](https://github.com/mohibovais79/Planning-Scraper)
+> A planning application scraper with Streamlit and Flet UIs that enables filtered data extraction, live logging, result comparison, and Excel export with easy deployment.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Flet](https://img.shields.io/badge/Flet-00BFFF?style=flat-square)
 
 </td>
 </tr>
@@ -128,10 +134,9 @@
 
 ```yaml
 name: Mohib Ahmed
-located_in: Your City, Country
 current_role: Full Stack AI Engineer
 
-company: Your Company / Freelance
+company: CCRIPT Agency / Freelance
 
 fields_of_interests:
   [
@@ -143,8 +148,8 @@ fields_of_interests:
     "MLOps & Deployment",
   ]
 
-currently_learning: ["LangChain", "Vector Databases", "Fine-tuning LLMs"]
-2025_goals: "Shipping AI-powered products that solve real problems"
+currently_learning: ["LangChain", "Vector Databases", "Fine-tuning LLMs", System Design]
+2026_goals: "Shipping AI-powered products that solve real problems"
 
 hobbies: ["Open Source", "Tech Blogging", "Problem Solving"]
 ```
@@ -232,13 +237,12 @@ hobbies: ["Open Source", "Tech Blogging", "Problem Solving"]
 <br/><br/>
 
 <!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohibovais79&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
+<img src="https://streak-stats.demolab.com?user=mohibovais79&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
 
 <br/><br/>
 
 <!-- GITHUB TROPHY -->
-<img src="https://github-profile-trophy.vercel.app/?username=mohibovais79&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=mohibovais79&theme=flat&no-frame=true" />
 </div>
 
 ---
